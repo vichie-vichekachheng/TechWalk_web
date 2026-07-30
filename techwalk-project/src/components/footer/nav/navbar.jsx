@@ -4,8 +4,8 @@ export default function Nav() {
   return (
     <>
     <div className="nav w-100 bg-dark shadow-lg">
-        <div className="bg-warning w-100" style={{height:'20px'}} >
-            <p className="text-center" style={{fontSize: "6px;"}}>WELCOME TO TECHWALK</p>
+        <div className="bg-warning w-100" style={{height:'12px'}} >
+            <p className="text-center" style={{fontSize: "10px"}}>WELCOME TO TECHWALK</p>
         </div>
       <nav className="navbar navbar-expand-lg justify-content-between align-items-center nav-wrapper w-100 py-3 px-3">
         <button
