@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17promax-digitalmat-gallery-3-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=WkVhZXB4WmFzZmdNeXA3cHg3WUZFU0tjazZmSzdrSHdxTW9VUlF0akdCc2hJek5jUXlGL2hrRE9PQW1MczdvOXpGbHdxTU5oSkkwKzZZOXF0cVNPL1V0RmgycTRGTHI3SUVxVFVFNFI5Qy9MaS85TmIwRFdiWE5HcWJteWMrRGQ",
+    "secondimage": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17promax-digitalmat-gallery-5-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=WkVhZXB4WmFzZmdNeXA3cHg3WUZFU0tjazZmSzdrSHdxTW9VUlF0akdCdEZhU2JmaHR5aE5vRi95N25ZTitZRnpGbHdxTU5oSkkwKzZZOXF0cVNPL1V0RmgycTRGTHI3SUVxVFVFNFI5Qy9vRGF2d2REeXdGcWg2ZmFjemgzK0Q",
+    "productname": "iPhone 17 Pro Max",
+    "price": 1199.00,
+    "description": "Experience peak smartphone engineering with the iPhone 17 Pro Max. Crafted with an ultra-durable aerospace-grade titanium frame, it features an expansive Super Retina XDR display with 120Hz ProMotion technology. Powered by the next-generation A-series Pro silicon, it effortlessly handles heavy 3D gaming, high-bitrate video editing, and advanced multitasking. The upgraded camera array delivers exceptional low-light performance and extended optical zoom capabilities for studio-quality photography."
+  },
+  {
+    "id": 2,
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-digitalmat-gallery-3-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=cjBEZlU5bVdKZEVBTk45K09QMzAwTjJ1T24yemhudm9NaWo1cUl6SVN6RnZibThWRUlEV2tlZ2JSNmpmUlp1TlFuOTJXc2JVdks4czlZWHJTOHkzNkg4SnkwY0diclR3aWNnek5QTEFaZFFuQmI4OHNEWXRYSElqQ09abTkrSVQ",
+    "secondimage": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-digitalmat-gallery-5-202509?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=cjBEZlU5bVdKZEVBTk45K09QMzAwR015UmNzenFKUHB0bGtqQUxXNExEVnZibThWRUlEV2tlZ2JSNmpmUlp1TlFuOTJXc2JVdks4czlZWHJTOHkzNkg4SnkwY0diclR3aWNnek5QTEFaZFRUdFBEQ2lzRUQ0Yk4rVVZQOGJ6ZHA",
+    "productname": "iPhone 17 Pro",
+    "price": 1299.99,
+    "description": "The iPhone 17 Pro combines top-tier performance with an ultra-sleek, lightweight build designed for effortless one-handed use. It comes equipped with Apple Intelligence integration, allowing you to summarize documents, generate visuals, and automate complex workflows instantly. Its high-brightness OLED panel ensures crystal-clear visibility even under direct sunlight, while optimized battery management provides reliable power throughout long workdays."
+  },
+  {
+    "id": 3,
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone16-digitalmat-gallery-3-202409?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=Y2tBd1RqSzMrd3hScm1lN290ZENDQnlVUVRHTkd5alQ5aFd0OWdSZUk0SXlLZ0xXbFByV2Vvak9rWndaamlPU3cvMldkdDlIc0lud2tjcDJ3djFCUkV2dGpWUjV5VzZtaGp2QjBiUXR3RUFJWFM4ekI5ZC9uRFBQN3lzOXp4dnA",
+    "secondimage": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone16-digitalmat-gallery-4-202409?wid=728&hei=666&fmt=p-jpg&qlt=95&.v=Y2tBd1RqSzMrd3hScm1lN290ZENDT21WVFhyY3phSHE0c0dmYXl5WVVRd3lLZ0xXbFByV2Vvak9rWndaamlPU3cvMldkdDlIc0lud2tjcDJ3djFCUkV2dGpWUjV5VzZtaGp2QjBiUXR3RUQzSmhDWEMwK2dTTElJb2VMenpvQVc",
+    "productname": "iPhone 16",
+    "price": 999.00,
+    "description": "Designed for everyday versatility, iPhone 16 delivers speed, elegance, and durability in a modern glass-and-aluminum housing. Its dynamic camera button gives you intuitive control over exposure, depth of field, and zoom gestures on the fly. Enhanced water resistance, strong Ceramic Shield front glass, and fast MagSafe charging make it a dependable companion for everyday adventures."
+  },
+  {
+    "id": 4,
+    "image": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/mba_13_15_286f55670_2x.jpg",
+    "secondimage": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/mbp_14_16_028335cc2_2x.jpg",
+    "productname": "MacBook Air",
+    "price": 699.00,
+    "description": "Engineered for maximum portability without sacrificing speed, the MacBook Air features a strikingly thin aluminum enclosure and a completely silent, fanless design. Whether you are coding, editing high-resolution photos, or streaming media, its crisp Liquid Retina display renders colors with vivid realism. With up to 18 hours of continuous battery life and convenient MagSafe charging, it is built to power through work or study sessions from anywhere."
+  },
+  {
+    "id": 5,
+    "image": "https://angkormeas.com/wp-content/uploads/2026/02/Galaxy-Buds4-Pro-2-600x600.jpg?v=1775528154",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2026/02/Galaxy-Buds4-1-600x600.jpg?v=1775528470",
+    "productname": "Galaxy Buds(Free Case)",
+    "price": 249.00,
+    "description": "Immerse yourself in rich, studio-quality sound with Galaxy Buds, featuring 24-bit Hi-Fi audio playback and custom multi-way speakers. Intelligent Active Noise Canceling dynamically adjusts to your environment, muting distracting ambient noise while automatically switching to Ambient Sound mode when you speak. This bundle includes an extra protective case to safeguard your earbuds against drops and scratches during daily commutes."
+  },
+  {
+    "id": 6,
+    "image": "https://angkormeas.com/wp-content/uploads/2025/08/HUAWEI-Pura-80-Ultra1-600x600.jpg?v=1783590560",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2025/08/HUAWEI-Pura-80-Ultra1-600x600.jpg?v=1783590560",
+    "productname": "Huawei Pura 80 Ultra",
+    "price": 999.00,
+    "description": "Pushing the boundaries of mobile photography, the Huawei Pura 80 Ultra features a revolutionary retractable camera sensor equipped with high-speed macro optics. Its ultra-durable Kunlun Glass display offers exceptional resistance against drops and impacts during rugged use. Backed by high-speed SuperCharge technology, it recharges in minutes so you stay connected without long pauses."
+  },
+  {
+    "id": 7,
+    "image": "https://angkormeas.com/wp-content/uploads/2025/12/HUAWEI-nova-14-Blue-600x600.jpg?v=1765522571",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2025/12/HUAWEI-nova-14-Pro-White-600x600.jpg?v=1765523058",
+    "productname": "Huawei Nova 14 Pro",
+    "price": 469.00,
+    "description": "Blending bold styling with high performance, the Huawei Nova 14 Pro features an eye-catching textured back panel paired with a vibrant curved OLED display. Its advanced front-facing camera setup includes smart eye-tracking autofocus, making it ideal for high-quality vlogging and portrait captures. With responsive fast-charging support and smooth user interface optimizations, it offers a refined daily experience."
+  },
+  {
+    "id": 8,
+    "image": "https://angkormeas.com/wp-content/uploads/2026/01/OPPO-Reno15-F-5G-Aurora-Blue-600x600.jpg?v=1768443299",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2026/01/Reno-15-5G-600x600.jpg?v=1780461490",
+    "productname": "Oppo Reno 15F 5G",
+    "price": 469.00,
+    "description": "Built for social media creators and mobile gamers, the Oppo Reno 15F 5G boasts a fluid 120Hz AMOLED display with ultra-thin bezels. Its AI-powered triple camera system takes the guesswork out of night photography, enhancing clarity and color vibrancy automatically. Wrapped in a slim, ergonomic chassis with fast 5G data speeds, it combines contemporary aesthetic appeal with modern connectivity."
+  },
+  {
+    "id": 9,
+    "image": "https://angkormeas.com/wp-content/uploads/2026/03/Ipad_Air-13-M4-600x600.jpg?v=1774947762",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2026/03/Ipad_Air-11-M4-2-600x600.jpg?v=1774950268",
+    "productname": "Apple iPad Air M4",
+    "price": 729.00,
+    "description": "Supercharged by Apple’s high-performance M4 processor, the iPad Air delivers incredible speed for creative illustration, 4K video rendering, and immersive gaming. Its high-resolution Liquid Retina display supports P3 wide color and True Tone for accurate visual editing. Pair it with the Apple Pencil Pro or Magic Keyboard to transform your tablet into a complete digital workstation."
+  },
+  {
+    "id": 10,
+    "image": "https://angkormeas.com/wp-content/uploads/2024/05/Untitled-1-7.jpg?v=1720452684",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2024/05/Magic-Keyboard-for-iPad-Pro-11%E2%80%91inch-M4-Black-1-600x600.jpg?v=1720452805",
+    "productname": "Magic Keyboard iPad Pro M4|M5",
+    "price": 329.00,
+    "description": "The perfect accessory for iPad Pro, the Magic Keyboard features an elegant floating cantilever design that lets you adjust screen angles smoothly. It integrates a comfortable backlit keyboard with a full 14-key function row and a precise glass trackpad with haptic feedback. USB-C passthrough charging keeps your iPad's main port free for connecting external drives and displays."
+  },
+  {
+    "id": 11,
+    "image": "https://angkormeas.com/wp-content/uploads/2025/06/Galaxy-Fold-7-Black-600x600.jpg?v=1751038166",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2024/09/Galaxy-Z-fold6_v1-600x600.jpg?v=1726646933",
+    "productname": "Galaxy Z Fold",
+    "price": 1199.00,
+    "description": "Redefine mobile productivity with the Galaxy Z Fold, featuring an outer cover screen that unfolds into a massive, immersive tablet-style interior display. Effortlessly run up to three applications side by side, drag and drop files across windows, or sketch ideas with S Pen support. Designed with an Armor Aluminum frame and improved hinge durability, it delivers ultimate multitasking capability wherever you go."
+  },
+  {
+    "id": 12,
+    "image": "https://angkormeas.com/wp-content/uploads/2024/08/Pred_Galaxy-Bud3-Pro_v3-600x600.jpg?v=1724497753",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2024/07/G_Galaxy-Bud3_v1-600x600.jpg?v=1721727471",
+    "productname": "Galaxy Buds 3",
+    "price": 139.00,
+    "description": "Designed with an open-fit architectural contour, Galaxy Buds 3 deliver balanced, all-day audio comfort without deeply sealing your ear canal. Adaptive Equalizer continuously tunes sound frequencies based on how the earbud sits in your ear, providing rich bass and clear treble. With intuitive pinch controls, IP57 water resistance, and fast pairing across devices, they fit seamlessly into active lifestyles."
+  },
+  {
+    "id": 13,
+    "image": "https://angkormeas.com/wp-content/uploads/2023/12/Samsung-Wireless-Dous-Charger-600x600.jpg?v=1749196182",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2023/12/SS_10k_v1.jpg?v=1720453625",
+    "productname": "Samsung Wireless Duo Charger",
+    "price": 49.00,
+    "description": "Declutter your nightstand or desk setup with the Samsung Wireless Duo Charger. Featuring two designated charging spots, it lets you charge your primary smartphone alongside a smartwatch or wireless earbud case simultaneously. Built-in safety sensors protect your devices against overheating and power surges while LED status indicators let you monitor battery levels at a glance."
+  },
+  {
+    "id": 14,
+    "image": "https://angkormeas.com/wp-content/uploads/2025/09/Apple-Watch-Ultra3-Ocean-600x600.jpg?v=1766039327",
+    "secondimage": "https://angkormeas.com/wp-content/uploads/2025/09/Apple-Watch-Ultra3-Sport-Trail-Loop-3-600x600.jpg?v=1759936507",
+    "productname": "Apple Watch Ultra 3",
+    "price": 789.00,
+    "description": "Built to withstand severe climates and high-endurance activities, the Apple Watch Ultra 3 features a lightweight titanium casing and a scratch-resistant sapphire front crystal. It boasts precision dual-frequency GPS for accurate tracking through dense urban areas or remote trails, alongside depth gauge capabilities for diving. With multi-day battery endurance and a customizable Action Button, it is the ultimate tool for athletes and adventurers."
+  }
+]
